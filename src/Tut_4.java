@@ -18,6 +18,6 @@ public class Tut_4 {
        float Bill = input+input1+input2;
         float gst = Bill+ (Bill * (18/100f));
 
-        System.out.println("The Total Bill of the product is:" +gst);
+        System.out.println("The Total Bill of the product is :" +gst);
     }
 }
