@@ -1,5 +1,4 @@
 
-
 public class Tut_82 {
 
     static void printEvenOdd_BitwiseOperator(int n) {
